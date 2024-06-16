@@ -28,7 +28,7 @@ const Project = () => {
     ];
   return (
     <div name="projects" className="bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-screen md:pl-20">
-    <div className="pb-8 pl-5 pt-20">
+    <div className="pb-8 pl-5 pt-20 md:pt-0">
         <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             Projects
         </p>
