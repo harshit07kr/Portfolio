@@ -22,8 +22,8 @@ const Project = () => {
         {
             id: 3,
             src: Portfolio,
-            live: "#",
-            code: "##",
+            live: "https://harshit07-portfolio.netlify.app/",
+            code: "https://github.com/harshit07kr/Portfolio",
         },
     ];
   return (
