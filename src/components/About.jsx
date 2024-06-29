@@ -8,11 +8,11 @@ const About = () => {
           <p>About</p>
         </div>
         <p className="text-base md:text-xl mt-10">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi fugiat asperiores, voluptatum, deserunt explicabo reiciendis itaque quod culpa corporis dolorem laudantium illo consequuntur nesciunt saepe quasi sunt voluptatibus similique tempora beatae cupiditate maiores accusantium. Natus distinctio eaque nam commodi reprehenderit accusamus aspernatur reiciendis illo necessitatibus eum, error molestiae dicta atque.
+        My passion for software development is fueled by a strong track record and continuous improvement. I've tackled 150+ data structure and algorithm challenges on platforms like LeetCode, honing my skills. Proficient in Firebase, I use Cloud Firestore for efficient data management and Firebase Authentication for secure access. I've excelled in competitive exams, ranking in the top 1.7% nationwide in JEE MAINS 2022 and achieving outstanding results in WBJEE 2022 and JEE ADVANCED 2022. These achievements highlight my commitment to excellence and readiness for new challenges.
         </p>
         <br />
         <p className="text-base md:text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur accusantium et non, iusto cumque quia nam tenetur illum exercitationem distinctio unde facere voluptates odio rem neque maxime ullam, asperiores fuga enim laborum beatae.
+        My enthusiasm for software development is fueled by a track record of accomplishments and a relentless drive for continuous improvement. I've solved over 150 data structure and algorithm challenges across platforms like LeetCode and GeeksforGeeks, honing my problem-solving skills. I have also extensively explored Firebase, utilizing Cloud Firestore for efficient data management and implementing Firebase Authentication for secure user access control. Beyond technical proficiency, I've achieved remarkable results in competitive exams, such as ranking in the top 1.7% nationwide in JEE MAINS 2022 and earning outstanding ranks in WBJEE 2022 and JEE ADVANCED 2022. These achievements underscore my commitment to excellence and my readiness to tackle new challenges in my journey.
         </p>
       </div>
     </div>
