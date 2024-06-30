@@ -8,11 +8,11 @@ const About = () => {
           <p>About</p>
         </div>
         <p className="text-base md:text-xl mt-10">
-        My passion for software development is fueled by a strong track record and continuous improvement. I've tackled 150+ data structure and algorithm challenges on platforms like LeetCode, honing my skills. Proficient in Firebase, I use Cloud Firestore for efficient data management and Firebase Authentication for secure access. I've excelled in competitive exams, ranking in the top 1.7% nationwide in JEE MAINS 2022 and achieving outstanding results in WBJEE 2022 and JEE ADVANCED 2022. These achievements highlight my commitment to excellence and readiness for new challenges.
+        I'm Harshit, a dedicated Computer Science and Engineering student at Birla Institute of Technology Mesra, passionate about software engineering. I excel in Data Structures, Algorithms, and frontend technologies like HTML, CSS, JavaScript, ReactJS, and Tailwind CSS, specializing in crafting intuitive user interfaces. I have a solid grasp of Firebase for backend development, building robust and scalable web applications driven by innovation and quality.I use Cloud Firestore for efficient data management and Firebase Authentication for secure access.
         </p>
         <br />
         <p className="text-base md:text-xl">
-        My enthusiasm for software development is fueled by a track record of accomplishments and a relentless drive for continuous improvement. I've solved over 150 data structure and algorithm challenges across platforms like LeetCode and GeeksforGeeks, honing my problem-solving skills. I have also extensively explored Firebase, utilizing Cloud Firestore for efficient data management and implementing Firebase Authentication for secure user access control. Beyond technical proficiency, I've achieved remarkable results in competitive exams, such as ranking in the top 1.7% nationwide in JEE MAINS 2022 and earning outstanding ranks in WBJEE 2022 and JEE ADVANCED 2022. These achievements underscore my commitment to excellence and my readiness to tackle new challenges in my journey.
+        My passion for software development is fueled by a strong track record and continuous improvement. I've tackled 150+ data structure and algorithm challenges on platforms like LeetCode, honing my skills.I've excelled in competitive exams, ranking in the top 1.7% nationwide in JEE MAINS 2022 and achieving outstanding results in WBJEE 2022 and JEE ADVANCED 2022. These achievements highlight my commitment to excellence and readiness for new challenges.
         </p>
       </div>
     </div>
