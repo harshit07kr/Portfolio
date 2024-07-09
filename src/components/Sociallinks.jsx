@@ -1,5 +1,5 @@
 import React from 'react'
-import {FaGithub,FaLinkedin} from "react-icons/fa";
+import {FaCode, FaGithub,FaLinkedin} from "react-icons/fa";
 import {HiOutlineMail} from "react-icons/hi";
 import {BsFillPersonLinesFill} from "react-icons/bs";
 const Sociallinks = () => {
@@ -27,13 +27,22 @@ const Sociallinks = () => {
           id: 3,
           child: (
             <>
+              Codolio <FaCode size={30} />
+            </>
+          ),
+          href: "https://codolio.com/profile/harshit_7904",
+        },
+        {
+          id: 4,
+          child: (
+            <>
               Mail <HiOutlineMail size={30} />
             </>
           ),
           href: "mailto:harshitkr9435@gmail.com",
         },
         {
-          id: 4,
+          id: 5,
           child: (
             <>
               Resume <BsFillPersonLinesFill size={30} />
