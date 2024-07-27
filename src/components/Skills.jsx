@@ -6,6 +6,9 @@ import tw from '../assets/tailwind.png';
 import reactimage from '../assets/react.png';
 import firebase from '../assets/Firebase_icon.png';
 import gitimage from '../assets/git.png';
+import nodeimage from '../assets/nodejs.png';
+import expressimage from '../assets/express.png';
+import mongoDBimage from '../assets/mongoDB.png';
 
 const Skills = () => {
     const skills = [
@@ -36,7 +39,7 @@ const Skills = () => {
         {
             id: 5,
             src: reactimage,
-            title: 'React',
+            title: 'ReactJS',
             style: 'shadow-blue-500',
         },
         {
@@ -47,6 +50,24 @@ const Skills = () => {
         },
         {
             id: 7,
+            src: nodeimage,
+            title: 'NodeJS',
+            style: 'shadow-green-500',
+        },
+        {
+            id: 8,
+            src: expressimage,
+            title: 'ExpressJS',
+            style: 'shadow-gray-500',
+        },
+        {
+            id: 9,
+            src: mongoDBimage,
+            title: 'MongoDB',
+            style: 'shadow-green-500',
+        },
+        {
+            id: 10,
             src: gitimage,
             title: 'Git',
             style: 'shadow-red-500',
