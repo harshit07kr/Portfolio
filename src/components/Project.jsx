@@ -3,6 +3,7 @@ import tva from '../assets/Projects/TVA.png';
 import currenzy from '../assets/Projects/Currenzy.png';
 import Portfolio from '../assets/Projects/Portfolio.png';
 import Joboard from '../assets/Projects/Joboard.png';
+import exptr from '../assets/Projects/expensetracker.png';
 
 const Project = () => {
     const openlink = (url) => {
@@ -11,24 +12,30 @@ const Project = () => {
     const projects = [
         {
             id: 1,
-            src: tva,
-            live: "https://harshit07kr.github.io/TVA/",
-            code: "https://github.com/harshit07kr/TVA",
+            src: exptr,
+          live: "https://expense-tracker0-7.vercel.app/",
+          code: "https://github.com/harshit07kr/Expense-Tracker-MERN",
         },
         {
             id: 2,
+            src: Joboard,
+          live: "https://joboard07.netlify.app/",
+          code: "https://github.com/harshit07kr/Joboard",
+        },
+        {
+            id: 3,
             src: currenzy,
             live: "https://harshit07kr.github.io/CURRENZY/",
             code: "https://github.com/harshit07kr/CURRENZY",
         },
         {
-          id: 3,
-          src: Joboard,
-          live: "https://joboard07.netlify.app/",
-          code: "https://github.com/harshit07kr/Joboard",
+          id: 4,
+          src: tva,
+            live: "https://harshit07kr.github.io/TVA/",
+            code: "https://github.com/harshit07kr/TVA",
         },
         {
-            id: 4,
+            id: 5,
             src: Portfolio,
             live: "https://harshit07-portfolio.netlify.app/",
             code: "https://github.com/harshit07kr/Portfolio",
