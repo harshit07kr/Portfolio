@@ -48,9 +48,7 @@ const Sociallinks = () => {
               Resume <BsFillPersonLinesFill size={30} />
             </>
           ),
-          href: "/Harshit_Resume.pdf",
-          style: "rounded-br-md",
-          download: true,
+          href: "https://drive.google.com/file/d/1OB6Zj9MX4WiRv7tM1vZIssUEx-VZuPVb/view",
         },
       ];   
     return (
@@ -68,7 +66,6 @@ const Sociallinks = () => {
                 <a
                   href={href}
                   className="flex justify-between items-center w-full text-white"
-                  download={download}
                   target="_blank"
                   rel="noreferrer"
                 >
