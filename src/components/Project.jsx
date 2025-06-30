@@ -4,6 +4,7 @@ import currenzy from '../assets/Projects/Currenzy.png';
 import Portfolio from '../assets/Projects/Portfolio.png';
 import Joboard from '../assets/Projects/Joboard.png';
 import exptr from '../assets/Projects/expensetracker.png';
+import Wealth_AI from '../assets/Projects/Wealth_AI.png';
 
 const Project = () => {
     const openlink = (url) => {
@@ -12,30 +13,36 @@ const Project = () => {
     const projects = [
         {
             id: 1,
+            src: Wealth_AI,
+          live: "http://wealth-finance-app.vercel.app/",
+          code: "https://github.com/harshit07kr/Wealth-Finance-App",
+        },
+        {
+            id: 2,
             src: exptr,
           live: "https://expense-tracker0-7.vercel.app/",
           code: "https://github.com/harshit07kr/Expense-Tracker-MERN",
         },
         {
-            id: 2,
+            id: 3,
             src: Joboard,
           live: "https://joboard07.netlify.app/",
           code: "https://github.com/harshit07kr/Joboard",
         },
         {
-            id: 3,
+            id: 4,
             src: currenzy,
             live: "https://harshit07kr.github.io/CURRENZY/",
             code: "https://github.com/harshit07kr/CURRENZY",
         },
         {
-          id: 4,
+          id: 5,
           src: tva,
             live: "https://harshit07kr.github.io/TVA/",
             code: "https://github.com/harshit07kr/TVA",
         },
         {
-            id: 5,
+            id: 6,
             src: Portfolio,
             live: "https://harshit07-portfolio.netlify.app/",
             code: "https://github.com/harshit07kr/Portfolio",
