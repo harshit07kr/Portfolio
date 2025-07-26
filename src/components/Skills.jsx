@@ -9,6 +9,16 @@ import gitimage from '../assets/git.png';
 import nodeimage from '../assets/nodejs.png';
 import expressimage from '../assets/express.png';
 import mongoDBimage from '../assets/mongoDB.png';
+import arcjet from '../assets/arcjet.png';
+import clerk from '../assets/clerk.png';
+import gemini from '../assets/gemini.png';
+import inngest from '../assets/inngest.png';
+import nextjs from '../assets/nextjs.png';
+import oracle from '../assets/oracle.png';
+import prisma from '../assets/prisma.png';
+import postman from '../assets/postman.png';
+import schadcn from '../assets/schadcn.png';
+import supabase from '../assets/supabase.png';
 
 const Skills = () => {
     const skills = [
@@ -38,39 +48,100 @@ const Skills = () => {
         },
         {
             id: 5,
+            src: schadcn,
+            title: 'Schadcn/ui',
+            style: 'shadow-gray-300',
+        },
+        {
+            id: 6,
             src: reactimage,
             title: 'ReactJS',
             style: 'shadow-blue-500',
         },
         {
-            id: 6,
+            id: 7,
+            src: nextjs,
+            title: 'NextJs',
+            style: 'shadow-gray-600',
+        },
+        {
+            id: 8,
             src: firebase,
             title: 'FireBase',
             style: 'shadow-yellow-500',
         },
         {
-            id: 7,
+            id: 9,
+            src: supabase,
+            title: 'Supabase',
+            style: 'shadow-green-500',
+        },
+        
+        {
+            id: 10,
             src: nodeimage,
             title: 'NodeJS',
             style: 'shadow-green-500',
         },
         {
-            id: 8,
+            id: 11,
             src: expressimage,
             title: 'ExpressJS',
-            style: 'shadow-gray-500',
+            style: 'shadow-gray-600',
         },
         {
-            id: 9,
+            id: 12,
+            src: clerk,
+            title: 'Clerk',
+            style: 'shadow-gray-300',
+        },
+        {
+            id: 13,
             src: mongoDBimage,
             title: 'MongoDB',
             style: 'shadow-green-500',
         },
         {
-            id: 10,
+            id: 14,
+            src: prisma,
+            title: 'Prisma',
+            style: 'shadow-gray-300',
+        },
+        {
+            id: 15,
+            src: gemini,
+            title: 'Gemini 1.5 Flash',
+            style: 'shadow-blue-500',
+        },
+        {
+            id: 16,
+            src: oracle,
+            title: 'Oracle Analytics Publisher',
+            style: 'shadow-orange-700',
+        },
+        {
+            id: 17,
+            src: arcjet,
+            title: 'Arcjet',
+            style: 'shadow-gray-300',
+        },
+        {
+            id: 18,
+            src: inngest,
+            title: 'Inngest',
+            style: 'shadow-gray-300',
+        },
+        {
+            id: 19,
             src: gitimage,
             title: 'Git',
             style: 'shadow-red-500',
+        },
+        {
+            id: 20,
+            src: postman,
+            title: 'Postman',
+            style: 'shadow-orange-800',
         },
     ];
     return (

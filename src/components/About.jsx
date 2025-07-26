@@ -8,12 +8,14 @@ const About = () => {
           <p>About</p>
         </div>
         <p className="text-base md:text-xl mt-10">
-        I'm Harshit, a dedicated Computer Science and Engineering student at Birla Institute of Technology Mesra, with a passion for software engineering. I excel in Data Structures and Algorithms and specialize in MERN stack development, which includes MongoDB, Express.js, ReactJS, and Node.js. Additionally, I have explored Tailwind CSS to ensure responsive and aesthetically pleasing websites. My expertise extends to Firebase Cloud Firestore for efficient data management and Firebase Authentication for secure and seamless user access. I am driven by innovation and committed to building robust, scalable web applications that provide exceptional user experiences.
+        I'm Harshit, a passionate Computer Science and Engineering student at Birla Institute of Technology, Mesra, with a strong inclination toward software engineering and building impactful digital solutions. I specialize in MERN and Next.js development, working extensively with technologies like MongoDB, Express.js, ReactJS, Node.js, Tailwind CSS, and shadcn/ui to create scalable and visually engaging web applications. I also leverage platforms like Firebase, Supabase, Clerk, and Prisma for robust backend and authentication solutions.
         </p>
         <br />
         <p className="text-base md:text-xl">
         
-My passion for software development is fueled by a strong track record and a commitment to continuous improvement. I have tackled over 250 data structure and algorithm challenges on platforms like LeetCode, honing my problem-solving skills and technical proficiency. My competitive spirit is reflected in my 11th place finish in Code360 Weekly Contest 135, with a maximum rating of 1896.
+My experience includes integrating Gemini 1.5 Flash for GenAI-powered applications, reflecting my eagerness to explore cutting-edge tools in modern development. I've also gained hands-on exposure to enterprise-level software through my internship at Accenture, where I contributed to HR reporting using Oracle Fusion HCM Cloud and BI Publisher.
+<br/>
+My passion for software development is fueled by a strong track record and a commitment to continuous improvement. I have tackled over 450 data structure and algorithm challenges on platforms like LeetCode, honing my problem-solving skills and technical proficiency. My competitive spirit is reflected in my 11th place finish in Code360 Weekly Contest 135, with a maximum rating of 1896.
 <br/>
 I have also excelled in national competitive exams, ranking in the top 1.7% nationwide in JEE MAINS 2022 and achieving outstanding results in both WBJEE 2022 and JEE ADVANCED 2022. These achievements underscore my dedication to excellence and my readiness to take on new and demanding challenges.
         </p>
